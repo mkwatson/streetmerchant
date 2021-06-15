@@ -1,12 +1,12 @@
 .idea/
 .vs/
 .vscode/
-build/
+# build/
 coverage/
 node_modules/
 
 .env
-dotenv
+# dotenv
 *.proxies
 success-*.png
 
