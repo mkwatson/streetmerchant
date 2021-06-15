@@ -8,6 +8,7 @@
     "lint": "gts lint",
     "clean": "gts clean",
     "compile": "tsc",
+    "tsc": "tsc",
     "pretest": "npm run compile",
     "posttest": "npm run lint",
     "prestart": "npm run compile",
